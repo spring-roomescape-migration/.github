@@ -26,15 +26,19 @@
 <br>
 
 ### 🎯 TODO
-* [ ] 예약 관리 CRUD API 개발
-* [ ] 인메모리 데이터베이스(h2) 세팅
-* [ ] 예약 시간 CRUD API 개발
-* [ ] 방탈출 테마 CRUD API 개발
-* [ ] 예외 처리
-* [ ] 회원가입 및 로그인 API 개발
-* [ ] JWT 기반 Cookie 생성
-* [ ] Cookie 및 HandlerMethodArgumentResolver 기반 사용자 인증 세팅
-* [ ] 관리자 권한 기반 인가 Interceptor 세팅
-* [ ] 순수 JPA 전환(기존 JDBC Template 사용)
-* [ ] 나의 예약 조회 API 개발
+* [x] 예약 관리 CRUD API 개발
+* [x] 인메모리 데이터베이스(h2) 세팅
+* [x] 예약 시간 CRUD API 개발
+* [x] 방탈출 테마 CRUD API 개발
+* [x] 예외 처리
+* [x] 회원가입 및 로그인 API 개발
+* [x] JWT 기반 Cookie 생성
+* [x] Cookie 및 HandlerMethodArgumentResolver 기반 사용자 인증 세팅
+* [x] 관리자 권한 기반 인가 Interceptor 세팅
+* [x] 순수 JPA 전환(기존 JDBC Template 사용)
+* [x] 나의 예약 조회 API 개발
 * [ ] 예약 대기 CRUD API 개발
+
+### ✈️ Migration TODO
+* [x] 뼈대코드 이전
+* [ ] CI/CD 구축
