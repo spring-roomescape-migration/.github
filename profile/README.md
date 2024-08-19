@@ -7,7 +7,7 @@
 <br>
 
 ### 📺 summary
-- 118 Pull-Request code review
+- 136 Pull-Request code review
 - 19 API created
 - 87 TestCode created
 
@@ -21,7 +21,7 @@
 - **[PR #05 - 관리자 기능](https://github.com/next-step/spring-roomescape-auth/pull/35)**
 - **[PR #06 - JPA 전환](https://github.com/next-step/spring-roomescape-waiting/pull/15)**
 - **[PR #07 - 내 예약 목록 조회 기능](https://github.com/next-step/spring-roomescape-waiting/pull/19)**
-- **[PR #08 - 예약 대기 기능](https://github.com/next-step/spring-roomescape-waiting/pull/37)** [진행 중]
+- **[PR #08 - 예약 대기 기능](https://github.com/next-step/spring-roomescape-waiting/pull/37)**
 
 <br>
 
@@ -37,7 +37,7 @@
 * [x] 관리자 권한 기반 인가 Interceptor 세팅
 * [x] 순수 JPA 전환(기존 JDBC Template 사용)
 * [x] 나의 예약 조회 API 개발
-* [ ] 예약 대기 CRUD API 개발
+* [x] 예약 대기 CRUD API 개발
 
 ### ✈️ Migration TODO
 * [x] 뼈대코드 이전
