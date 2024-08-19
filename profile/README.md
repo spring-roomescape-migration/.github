@@ -25,6 +25,10 @@
 
 <br>
 
+### ✈️ Migration TODO
+* [x] 뼈대코드 이전
+* [x] CI/CD 구축
+
 ### 🎯 TODO
 * [x] 예약 관리 CRUD API 개발
 * [x] 인메모리 데이터베이스(h2) 세팅
@@ -39,6 +43,4 @@
 * [x] 나의 예약 조회 API 개발
 * [x] 예약 대기 CRUD API 개발
 
-### ✈️ Migration TODO
-* [x] 뼈대코드 이전
-* [ ] CI/CD 구축
+
