@@ -28,6 +28,7 @@
 ### ✈️ Migration TODO
 * [x] 뼈대코드 이전
 * [x] CI/CD 구축
+* [ ] 마지막 피드백 체리픽
 
 ### 🎯 TODO
 * [x] 예약 관리 CRUD API 개발
