@@ -1,4 +1,21 @@
-## 방탈출 예약 관리 애플리케이션
+# 방탈출 예약 관리 애플리케이션
+
+### 💻 Arichitecture
+
+* CI/CD PipeLine(Code Build, Code Deploy, Code PipeLine)
+![Untitled](https://github.com/user-attachments/assets/2b83a1cb-cf66-471e-b01d-57301ea9a648)
+  * [CI/CD 필요성 및 정의](https://github.com/JohnPrk/TIL/tree/main/CI%2C%20CD/CI%2C%20CD%20%EA%B0%9C%EB%85%90)
+
+<br>
+
+### ✈️ Migration TODO
+* [x] 뼈대코드 이전
+* [x] CI/CD 구축
+* [x] 마지막 피드백 체리픽
+
+<br>
+
+---
 
 ### 📁 Details
 * [학습 테스트로 배우는 Spring - NEXTSTEP](https://edu.nextstep.camp/c/X1pbG30l)
@@ -23,12 +40,6 @@
 - **[PR #07 - 내 예약 목록 조회 기능](https://github.com/next-step/spring-roomescape-waiting/pull/19)**
 - **[PR #08 - 예약 대기 기능](https://github.com/next-step/spring-roomescape-waiting/pull/37)**
 
-<br>
-
-### ✈️ Migration TODO
-* [x] 뼈대코드 이전
-* [x] CI/CD 구축
-* [x] 마지막 피드백 체리픽
 
 ### 🎯 TODO
 * [x] 예약 관리 CRUD API 개발
@@ -43,5 +54,3 @@
 * [x] 순수 JPA 전환(기존 JDBC Template 사용)
 * [x] 나의 예약 조회 API 개발
 * [x] 예약 대기 CRUD API 개발
-
-
