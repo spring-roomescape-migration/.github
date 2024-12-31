@@ -1,10 +1,9 @@
 # 방탈출 예약 관리 애플리케이션
 
-### 💻 Arichitecture
+### 💻 Infra
 
-* CI/CD PipeLine(Code Build, Code Deploy, Code PipeLine)
+* AWS Arichitecture
 ![Untitled](https://github.com/user-attachments/assets/6edd2b1f-cbfd-40c8-8026-6997cdccb655)
-
   * [CI/CD 필요성 및 정의](https://github.com/JohnPrk/TIL/tree/main/CI%2C%20CD/CI%2C%20CD%20%EA%B0%9C%EB%85%90)
 
 <br>
@@ -13,6 +12,10 @@
 * [x] 뼈대코드 이전
 * [x] CI/CD 구축
 * [x] 마지막 피드백 체리픽
+* [x] 자코코 테스트 커버리지 세팅
+* [x] AWS 아키텍처 설계
+* [x] 운영 DB 및 테스트 DB 분리
+* [x] 데이터베이스 관련 환경변수 AWS Parameter Store 서비스로 이전
 
 <br>
 
