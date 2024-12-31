@@ -8,6 +8,11 @@
 
 <br>
 
+### Test Coverage
+* jacoco
+  <img alt="image" src="https://github.com/user-attachments/assets/85090c15-2c63-439f-b0f2-53f81783ccbe" max-width= 100 />
+
+
 ### ✈️ Migration TODO
 * [x] 뼈대코드 이전
 * [x] CI/CD 구축
