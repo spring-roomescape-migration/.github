@@ -3,7 +3,8 @@
 ### 💻 Arichitecture
 
 * CI/CD PipeLine(Code Build, Code Deploy, Code PipeLine)
-![Untitled](https://github.com/user-attachments/assets/2b83a1cb-cf66-471e-b01d-57301ea9a648)
+![Untitled](https://github.com/user-attachments/assets/6edd2b1f-cbfd-40c8-8026-6997cdccb655)
+
   * [CI/CD 필요성 및 정의](https://github.com/JohnPrk/TIL/tree/main/CI%2C%20CD/CI%2C%20CD%20%EA%B0%9C%EB%85%90)
 
 <br>
