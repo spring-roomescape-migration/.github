@@ -2,7 +2,7 @@
 
 <a href="https://www.roomescape.me" rel="nofollow"><img src="https://camo.githubusercontent.com/b34bcbadf151fc946861cf752e6a40abf6deec97dbd383a60f09dacea273cf0e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2546302539462539332538365f5765625f536572766963652d626c7565" alt="Release" data-canonical-src="https://img.shields.io/badge/-%F0%9F%93%86_Web_Service-blue" style="max-width: 100%;"></a>
 
-<a href="https://github.com/spring-roomescape-migration/spring-roomescape-migration/releases/tag/v0.8.0"><img src="https://camo.githubusercontent.com/cade65206a634c68eff17f74f3ad291244d6855f6d96cf30cdee7756364b992e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f25453225394325413825323072656c656173652d76312e302e392d627269676874677265656e" alt="Release" data-canonical-src="https://img.shields.io/badge/%E2%9C%A8%20release-v0.8.0-brightgreen" style="max-width: 100%;"></a>
+<a href="https://github.com/spring-roomescape-migration/spring-roomescape-migration/releases/tag/v0.8.0"><img src="https://img.shields.io/badge/%E2%9C%A8%20release-v0.8.0-brightgreen" alt="Release" data-canonical-src="https://img.shields.io/badge/%E2%9C%A8%20release-v0.8.0-brightgreen" style="max-width: 100%;"></a>
 <br>
 <br>
 
