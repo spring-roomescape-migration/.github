@@ -32,7 +32,7 @@
 <br>
 
 ## **3. AWS Architecture & CI/CD**
-본 서비스는 AWS의 서비스 및 자원을 활용하여 구축 및 운영하고 있습니다. AWS CodePipeline을 사용하여 CI/CD 파이프라인을 구성하고, VPC 엔드포인트를 통해 프라이빗 서브넷의 EC2에 애플리케이션을 배포하고, 데이터베이스를 별도의 프라이빗 서브넷에 배치했습니다. 사용자와의 통신은 Route 53과 ALB 로드밸런서를 통해 관리됩니다. 또한 보안을 위해 HTTPS를 구축했고 앞으로 사용자 트래픽을 고려한 Auto-Scaling 적용할 계획입니다.
+본 서비스는 AWS의 서비스 및 자원을 활용하여 구축 및 운영하고 있습니다. AWS CodePipeline을 사용하여 CI/CD 파이프라인을 구성하고, VPC 엔드포인트를 통해 프라이빗 서브넷의 EC2에 애플리케이션을 배포하고, 데이터베이스를 별도의 프라이빗 서브넷에 배치했습니다. 사용자와의 통신은 Route 53과 ALB 로드밸런서를 통해 관리합니다. 또한 보안을 위해 HTTPS를 구축했고 앞으로 사용자 트래픽을 고려한 Auto-Scaling 적용할 계획입니다.
 * [CI/CD 필요성 및 정의](https://github.com/JohnPrk/TIL/tree/main/CI%2C%20CD/CI%2C%20CD%20%EA%B0%9C%EB%85%90)
 
 ![Untitled](https://github.com/user-attachments/assets/6edd2b1f-cbfd-40c8-8026-6997cdccb655)
