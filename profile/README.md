@@ -2,18 +2,16 @@
 
 <br>
 
-<p align="center">    <img src="https://github.com/user-attachments/assets/42a87114-ccf9-4ec6-bc20-b784a862c62f" alt="Resized Logo" width="256">
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/42a87114-ccf9-4ec6-bc20-b784a862c62f" alt="Resized Logo" width="256">
 </p>
-
-
-
 
 <p align="center">
  <a href="https://www.roomescape.me" rel="nofollow"><img src="https://camo.githubusercontent.com/b34bcbadf151fc946861cf752e6a40abf6deec97dbd383a60f09dacea273cf0e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2546302539462539332538365f5765625f536572766963652d626c7565" alt="Release" data-canonical-src="https://img.shields.io/badge/-%F0%9F%93%86_Web_Service-blue" style="max-width: 100%;"></a> 
  <br>
  <a href="https://github.com/spring-roomescape-migration/spring-roomescape-migration/releases/tag/v0.8.0">
-    <img src="https://img.shields.io/badge/%E2%9C%A8%20release-v0.8.0-brightgreen" alt="Release">
-  </a>
+  <img src="https://img.shields.io/badge/%E2%9C%A8%20release-v0.8.0-brightgreen" alt="Release">
+ </a>
 </p>
 
 <br>
@@ -31,7 +29,14 @@
 <br>
 <br>
 
-## **3. AWS Architecture & CI/CD**
+
+## **3.학습 저장소**
+프로젝트 진행 간에 학습했던 것이나 고민이 들거나 문제를 해결한 경험을 [Wiki](https://github.com/spring-roomescape-migration/spring-roomescape-migration/wiki)를 통해 남기고 있습니다.
+
+<br>
+<br>
+
+## **4. AWS Architecture & CI/CD**
 본 서비스는 AWS의 서비스 및 자원을 활용하여 구축 및 운영하고 있습니다. AWS CodePipeline을 사용하여 CI/CD 파이프라인을 구성하고, VPC 엔드포인트를 통해 프라이빗 서브넷의 EC2에 애플리케이션을 배포하고, 데이터베이스를 별도의 프라이빗 서브넷에 배치했습니다. 사용자와의 통신은 Route 53과 ALB 로드밸런서를 통해 관리합니다. 또한 보안을 위해 HTTPS를 구축했고 앞으로 사용자 트래픽을 고려한 Auto-Scaling 적용할 계획입니다.
 
 ![Untitled](https://github.com/user-attachments/assets/6edd2b1f-cbfd-40c8-8026-6997cdccb655)
@@ -39,7 +44,7 @@
 
 <br>
 
-## 4. Test Coverage
+## 5. Test Coverage
   <img alt="image" src="https://github.com/user-attachments/assets/85090c15-2c63-439f-b0f2-53f81783ccbe" max-width= 100 />
 
 
