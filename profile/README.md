@@ -17,7 +17,12 @@
 <br>
 <br>
 
-## **1. 서비스 소개**
+## **1. 서비스 소개 및 기능 소개**
+본 서비스는 방탈출 
+
+#### 로그인 및 쿠키를 통한 사용자 식별
+![로그인](https://github.com/user-attachments/assets/2e5eef96-1a3a-4c0f-b60e-0c3a4ff941fe)
+
 
 <br>
 <br>
