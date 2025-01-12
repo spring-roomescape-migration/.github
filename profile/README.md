@@ -22,6 +22,10 @@
 #### 로그인 및 쿠키를 통한 사용자 식별
 ![로그인](https://github.com/user-attachments/assets/2e5eef96-1a3a-4c0f-b60e-0c3a4ff941fe)
 
+#### 사용자 예약 및 자신의 예약 확인
+![화면 기록 2025-01-11 오후 9 42 33](https://github.com/user-attachments/assets/93d38a3c-e765-4996-bbc5-d4d9fd4f1b41)
+
+
 
 <br>
 <br>
