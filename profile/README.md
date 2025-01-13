@@ -68,7 +68,7 @@
 
 
 
-> 백엔드 및 인프라에 관한 상세한 설명은 [해당 링크](https://github.com/spring-roomescape-migration/spring-roomescape-migration/blob/main/README.md)를 참조해주세요.
+> 백엔드 및 인프라에 관한 상세한 설명은 [해당 링크](https://github.com/spring-roomescape-migration/spring-roomescape-migration)를 참조해주세요.
 
 <br>
 <br>
