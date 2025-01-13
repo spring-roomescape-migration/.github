@@ -55,10 +55,16 @@
 <br>
 
 ## **4. 백엔드 기술 및 AWS 인프라**
-본 서비스는 Java/SpringBoot를 사용하여 구축했습니다. 서비스 구축을 위해 AWS를 활용했으며, CodepipeLine, S3, ROUTE53, ALB, EC2, RDS 등 다양한 AWS 서비스 및 자원을 사용하고 있습니다. Junit5, RestAssured 등의 기술을 사용하여 단위 테스트 및 통합 테스트를 구축하여 서비스의 안정적인 운영과 배포를 만들어가고 있습니다. 백엔드 위주 및 개인 프로젝트이다보니 페이지 랜더링에 필요한 html, css, js의 뼈대 코드 및 페이지 디자인은 교육기관인 NEXT-STEP으로 제공받았습니다.
+본 서비스는 Java/SpringBoot를 사용하여 구축했습니다. 서비스 구축을 위해 AWS를 활용했으며 EC2, ALB, RDS, CodepipeLine 등 다양한 AWS 서비스 및 자원을 사용하고 있습니다. Junit5, RestAssured 등의 기술을 사용하여 통합 테스트 환경을 구축하고 Jacoco를 통해 테스트 커버리지를 확인하여 서비스의 안정적인 운영과 배포를 만들어가고 있습니다. 백엔드 위주 및 개인 프로젝트이다보니 페이지 랜더링에 필요한 html, css, js 뼈대 코드 및 페이지 디자인은 교육기관인 NEXT-STEP으로 제공받았습니다.
 
 
-> 인프라 및 백엔드에 대한 상세한 내용은 [해당 링크](https://github.com/spring-roomescape-migration/spring-roomescape-migration/blob/main/README.md)를 참조해주세요.
+<br>
+
+![image](https://github.com/user-attachments/assets/7345985e-4d0b-4277-98e1-ee8471beca19)
+
+
+
+> 백엔드 및 인프라에 관한 상세한 설명은 [해당 링크](https://github.com/spring-roomescape-migration/spring-roomescape-migration/blob/main/README.md)를 참조해주세요.
 
 <br>
 <br>
