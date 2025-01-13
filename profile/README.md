@@ -39,7 +39,11 @@
 
 <br>
 
-![리뷰](https://github.com/user-attachments/assets/8795c0e2-0226-48e7-babd-5a80874df664)
+
+![무제1](https://github.com/user-attachments/assets/545b3bb7-5879-4d7a-8c75-e6b4a0704990)
+![무제2](https://github.com/user-attachments/assets/1fd8f2d3-031b-43b7-84b2-b9d413fdc09c)
+![무제3](https://github.com/user-attachments/assets/628021b6-d166-4146-a74c-01e11a93bb1c)
+
 
 
 <br>
@@ -55,7 +59,7 @@
 <br>
 
 ## **4. 백엔드 기술 및 AWS 인프라**
-본 서비스는 Java/SpringBoot를 사용하여 구축했습니다. 서비스 구축을 위해 AWS를 활용했으며 EC2, ALB, RDS, CodepipeLine 등 다양한 AWS 서비스 및 자원을 사용하고 있습니다. Junit5, RestAssured 등의 기술을 사용하여 통합 테스트 환경을 구축하고 Jacoco를 통해 테스트 커버리지를 확인하여 서비스의 안정적인 운영과 배포를 만들어가고 있습니다. 백엔드 위주 및 개인 프로젝트이다보니 페이지 랜더링에 필요한 html, css, js 뼈대 코드 및 페이지 디자인은 교육기관인 NEXT-STEP으로 제공받았습니다.
+본 서비스는 Java/SpringBoot를 사용하여 구축했습니다. 서비스 구축을 위해 AWS를 활용했으며 EC2, ALB, RDS, CodepipeLine 등 다양한 AWS 서비스 및 자원을 사용하고 있습니다. Junit5, RestAssured 등의 기술을 사용하여 통합 테스트 환경을 구축하고 Jacoco를 통해 테스트 커버리지를 확인하여 서비스의 안정적인 운영과 배포를 만들어가고 있습니다. 백엔드 위주 및 개인 프로젝트이다 보니 페이지 렌더링에 필요한 HTML, CSS, js 뼈대 코드 및 페이지 디자인은 교육기관인 NEXT-STEP으로 제공받았습니다.
 
 
 <br>
