@@ -25,7 +25,8 @@
 #### 사용자 예약 및 자신의 예약 확인
 ![화면 기록 2025-01-11 오후 9 42 33](https://github.com/user-attachments/assets/93d38a3c-e765-4996-bbc5-d4d9fd4f1b41)
 
-
+#### 사용자 예약 대기 요청
+![화면 기록 2025-01-13 오후 2 37 14](https://github.com/user-attachments/assets/d316c84a-7993-4045-9670-2701c8d030cc)
 
 <br>
 <br>
