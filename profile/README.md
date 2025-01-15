@@ -52,8 +52,7 @@
 ## **3.학습 저장소**
 프로젝트 진행 간에 학습했던 것이나 고민이 들거나 문제를 해결한 경험을 [Wiki](https://github.com/spring-roomescape-migration/spring-roomescape-migration/wiki)를 통해 남기고 있습니다.
 
-* 기술1
-* 기술2
+* [AWS 비용을 줄여보기 위한 노력](https://github.com/spring-roomescape-migration/spring-roomescape-migration/wiki/AWS-%EB%B9%84%EC%9A%A9%EC%9D%84-%EC%A4%84%EC%97%AC%EB%B3%B4%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%85%B8%EB%A0%A5)
 
 <br>
 <br>
