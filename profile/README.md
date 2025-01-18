@@ -52,7 +52,7 @@
 ## **3.학습 저장소**
 프로젝트 진행 간에 학습했던 것이나 고민이 들거나 문제를 해결한 경험을 [Wiki](https://github.com/spring-roomescape-migration/spring-roomescape-migration/wiki)를 통해 남기고 있습니다.
 
-* [AWS 비용 64% 절감 : 18만원에서 7만원으로 절약한 방법](https://github.com/spring-roomescape-migration/spring-roomescape-migration/wiki/AWS-%EB%B9%84%EC%9A%A9-64%25-%EC%A0%88%EA%B0%90-:-18%EB%A7%8C%EC%9B%90%EC%97%90%EC%84%9C-7%EB%A7%8C%EC%9B%90%EC%9C%BC%EB%A1%9C-%EC%A0%88%EC%95%BD%ED%95%9C-%EB%B0%A9%EB%B2%95)
+* [AWS 비용 64% 절감 : 132달러에서 46달러로 절약한 방법](https://github.com/spring-roomescape-migration/spring-roomescape-migration/wiki/AWS-%EB%B9%84%EC%9A%A9-64%25-%EC%A0%88%EA%B0%90-:-18%EB%A7%8C%EC%9B%90%EC%97%90%EC%84%9C-7%EB%A7%8C%EC%9B%90%EC%9C%BC%EB%A1%9C-%EC%A0%88%EC%95%BD%ED%95%9C-%EB%B0%A9%EB%B2%95)
 
 <br>
 <br>
